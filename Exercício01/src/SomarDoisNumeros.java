@@ -1,4 +1,5 @@
 import java.util.*;
+//Henrique Grissi
 class SomarDoisNumeros {
 	
 	public static Scanner sc = new Scanner(System.in);
@@ -20,5 +21,4 @@ class SomarDoisNumeros {
 		System.out.println("Soma:" + soma);
 		
 		}
-
 }
